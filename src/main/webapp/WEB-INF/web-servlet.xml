@@ -6,7 +6,7 @@
 
     <mvc:annotation-driven/>
 
-    <context:component-scan base-package="ssm.controller"/>
-    <context:component-scan base-package="ssm.dao.impl"/>
-    <context:component-scan base-package="ssm.service.impl"/>
+    <context:component-scan base-package="xin.aliya.url.controller"/>
+    <context:component-scan base-package="xin.aliya.url.dao.impl"/>
+    <context:component-scan base-package="xin.aliya.url.service.impl"/>
 </beans>
