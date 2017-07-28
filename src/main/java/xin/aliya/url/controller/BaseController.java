@@ -1,4 +1,4 @@
-package ssm.controller;
+package xin.aliya.url.controller;
 
 import org.springframework.web.bind.annotation.ModelAttribute;
 

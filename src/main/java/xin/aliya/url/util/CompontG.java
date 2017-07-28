@@ -1,4 +1,4 @@
-package ssm.util;
+package xin.aliya.url.util;
 
 import freemarker.template.Template;
 import org.springframework.context.ApplicationContext;
@@ -16,8 +16,8 @@ import java.util.Scanner;
 class ComponentGenerator {
 
     // Configuration
-    private static final String PACKAGE = "ssm";
-    private static final String DATABASE = "db_ssm";
+    private static final String PACKAGE = "xin.aliya.url";
+    private static final String DATABASE = "db_url";
 
     private static final String CODE_PATH = "src/main/java/";
     private static final String PAGE_PATH = "src/main/webapp/";

@@ -1,12 +1,12 @@
-package ssm.dao.impl;
+package xin.aliya.url.dao.impl;
 
 import org.apache.ibatis.session.RowBounds;
 import org.apache.ibatis.session.SqlSession;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.util.StringUtils;
-import ssm.dao.GenericDao;
-import ssm.util.Constant;
-import ssm.util.Pagination;
+import xin.aliya.url.dao.GenericDao;
+import xin.aliya.url.util.Constant;
+import xin.aliya.url.util.Pagination;
 
 import java.io.Serializable;
 import java.lang.reflect.ParameterizedType;

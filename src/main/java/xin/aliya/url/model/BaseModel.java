@@ -1,4 +1,4 @@
-package ssm.model;
+package xin.aliya.url.model;
 
 import java.io.Serializable;
 

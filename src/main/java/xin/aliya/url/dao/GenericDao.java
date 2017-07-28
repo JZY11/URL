@@ -1,11 +1,11 @@
-package ssm.service;
+package xin.aliya.url.dao;
 
-import ssm.util.Pagination;
+import xin.aliya.url.util.Pagination;
 
 import java.io.Serializable;
 import java.util.List;
 
-public interface GenericService<T extends Serializable, ID extends Number> {
+public interface GenericDao<T extends Serializable, ID extends Number> {
 
     void create(T t);
 

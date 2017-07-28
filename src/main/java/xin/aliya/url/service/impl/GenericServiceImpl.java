@@ -1,8 +1,8 @@
-package ssm.service.impl;
+package xin.aliya.url.service.impl;
 
-import ssm.dao.GenericDao;
-import ssm.service.GenericService;
-import ssm.util.Pagination;
+import xin.aliya.url.dao.GenericDao;
+import xin.aliya.url.service.GenericService;
+import xin.aliya.url.util.Pagination;
 
 import java.io.Serializable;
 import java.util.List;

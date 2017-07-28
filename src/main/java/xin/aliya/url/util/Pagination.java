@@ -1,4 +1,4 @@
-package ssm.util;
+package xin.aliya.url.util;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
