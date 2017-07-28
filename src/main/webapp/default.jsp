@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>URL</h1>
-<form action="" method="post">
+<form action="${ctx}/mapper/create" method="post">
     <input name="original" size="64" placeholder="Enter a long URL">
     <input type="submit" value="Make URL"><br>
     <input name="creation" placeholder="Custom alias (optional)">
