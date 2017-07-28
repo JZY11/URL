@@ -1,1 +1,2 @@
-# Spring SpringMVC MyBaits Project.
+*Spring Spring MVC MyBatis Project
+[http://tinyurl.com]
